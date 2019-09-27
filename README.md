@@ -2,7 +2,7 @@
 
 Demonstrates how to use a Shared Library in Jenkins pipelines. This repository defines a single function, `sayHello`, which will echo a greeting.
 
-You can find a detailed post here - `https://binpipe.blogspot.com/2019/09/jenkins-common-pipeline-library.html`
+You can find a detailed post here - (https://binpipe.blogspot.com/2019/09/jenkins-common-pipeline-library.html)
 
 ## Setup instructions
 
