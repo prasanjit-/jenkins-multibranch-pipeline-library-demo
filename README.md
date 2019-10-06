@@ -1,4 +1,4 @@
-# jenkins-multibranch-jenkins-multibranch-pipeline-library-demo
+# jenkins-multibranch-pipeline-library-demo
 
 Demonstrates how to use a Shared Library in Jenkins pipelines. This repository defines a single function, `sayHello`, which will echo a greeting.
 
